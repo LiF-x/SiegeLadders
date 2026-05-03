@@ -34,7 +34,7 @@
     "dataPatches": [
       {
         "target": "data/admin_lands_abilities.xml",
-        "replace": "data/admin_lands_abilities.xml"
+        "transform": "transforms/admin_lands_abilities.xdt.xml"
       },
       {
         "target": "data/cm_equipTypes.xml",
