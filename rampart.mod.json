@@ -37,10 +37,6 @@
         "transform": "transforms/admin_lands_abilities.xdt.xml"
       },
       {
-        "target": "data/cm_equipTypes.xml",
-        "replace": "data/cm_equipTypes.xml"
-      },
-      {
         "target": "data/cm_objects.xml",
         "transform": "transforms/cm_objects.xdt.xml"
       },
