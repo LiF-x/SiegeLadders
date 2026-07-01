@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8"?>
+<object_types xmlns:xdt="http://schemas.microsoft.com/XML-Document-Transform">
+  <object id="1232" isUnflattenAllowed="0" rotationStep="90" defaultState="Complete" StreamingGroup="3" StreamingWeight="3" xdt:Locator="Match(id)" xdt:Transform="Replace">
+    <!--name = Long_House-->
+        <lockedCells>
+                      <cell x="0" y="0" />
+          <cell x="0" y="1" />
+          <cell x="0" y="2" />
+          <cell x="0" y="3" />
+          <cell x="0" y="4" />
+          <cell x="0" y="-1" />
+          <cell x="0" y="-2" />
+          <cell x="-1" y="-1" />
+          <cell x="-1" y="-2" />
+          <cell x="-2" y="-1" />
+          <cell x="-2" y="-2" />
+          <cell x="-3" y="-1" />
+          <cell x="-3" y="-2" />
+          <cell x="-4" y="-1" />
+          <cell x="-4" y="-2" />
+          <cell x="-5" y="-1" />
+          <cell x="-5" y="-2" />
+          <cell x="-6" y="-1" />
+          <cell x="-6" y="-2" />
+          <cell x="-7" y="-1" />
+          <cell x="-7" y="-2" />
+          <cell x="-1" y="1" />
+          <cell x="-1" y="2" />
+          <cell x="-1" y="3" />
+          <cell x="-1" y="4" />
+          <cell x="-2" y="1" />
+          <cell x="-2" y="2" />
+          <cell x="-2" y="3" />
+          <cell x="-2" y="4" />
+          <cell x="-3" y="1" />
+          <cell x="-3" y="2" />
+          <cell x="-3" y="3" />
+          <cell x="-3" y="4" />
+          <cell x="-4" y="1" />
+          <cell x="-4" y="2" />
+          <cell x="-4" y="3" />
+          <cell x="-4" y="4" />
+          <cell x="-5" y="0" />
+          <cell x="-5" y="1" />
+          <cell x="-5" y="2" />
+          <cell x="-5" y="3" />
+          <cell x="-5" y="4" />
+          <cell x="-6" y="1" /> 
+          <cell x="-6" y="2" />
+          <cell x="-6" y="3" />
+          <cell x="-6" y="4" />
+          <cell x="-7" y="1" />
+          <cell x="-7" y="2" />
+          <cell x="-7" y="3" />
+          <cell x="-7" y="4" />
+          <cell x="1" y="-1" />
+          <cell x="1" y="-2" />
+          <cell x="2" y="-1" />
+          <cell x="2" y="-2" />
+          <cell x="3" y="-1" />
+          <cell x="3" y="-2" />
+          <cell x="4" y="-1" />
+          <cell x="4" y="-2" />
+          <cell x="5" y="-1" />
+          <cell x="5" y="-2" />
+          <cell x="6" y="-1" />
+          <cell x="6" y="-2" />
+          <cell x="7" y="-1" />
+          <cell x="7" y="-2" />
+          <cell x="-1" y="0" />
+          <cell x="-2" y="0" />
+          <cell x="-3" y="0" />
+          <cell x="-4" y="0" />
+          <cell x="-5" y="0" />
+          <cell x="-6" y="0" />
+          <cell x="-7" y="0" />
+          <cell x="-8" y="1" />
+          <cell x="-8" y="2" />
+          <cell x="-8" y="3" />
+          <cell x="-8" y="4" />
+          <cell x="8" y="-2" />
+          <cell x="1" y="0" />
+          <cell x="2" y="0" />
+          <cell x="3" y="0" />
+          <cell x="4" y="0" />
+          <cell x="5" y="0" />
+          <cell x="6" y="0" />
+          <cell x="7" y="0" />
+          <cell x="8" y="0" />
+          <cell x="1" y="1" />
+          <cell x="2" y="1" />
+          <cell x="3" y="1" />
+          <cell x="4" y="1" />
+          <cell x="5" y="1" />
+          <cell x="6" y="1" />
+          <cell x="7" y="1" />
+          <cell x="8" y="1" />
+          <cell x="1" y="2" />
+          <cell x="2" y="2" />
+          <cell x="3" y="2" />
+          <cell x="4" y="2" />
+          <cell x="5" y="2" />
+          <cell x="6" y="2" />
+          <cell x="7" y="2" />
+          <cell x="8" y="2" />
+          <cell x="1" y="3" />
+          <cell x="2" y="3" />
+          <cell x="3" y="3" />
+          <cell x="4" y="3" />
+          <cell x="5" y="3" />
+          <cell x="6" y="3" />
+          <cell x="7" y="3" />
+          <cell x="8" y="3" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/newbieisland/long_house.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/storage/large_warehouse/large_warehouse_inc.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+  <object id="1671" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="3" noRuins="1" xdt:Locator="Match(id)" xdt:Transform="Replace">
+        <!--name = AlarmBell_2thTier-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/decorations/alarmbell/alarmbell_2thtier.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/decorations/alarmbell/alarmbell_2ndtier_inc.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Working">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/decorations/alarmbell/alarmbell_2thtier.dts</shapeName>
+                       <animationName>bell</animationName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+                <soundEmitters>
+                    <emitter>
+                        <event>Bell</event>
+                        <offset x="0" y="0" z="32.2" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <radius>25</radius>
+                    </emitter>
+                </soundEmitters>
+            </state>
+        </states>
+    </object>
+  <object id="1733" isUnflattenAllowed="0" rotationStep="1" defaultState="Complete" StreamingGroup="3" noRuins="1" xdt:Locator="Match(id)" xdt:Transform="Replace">
+        <!--name = AlarmBell_3rdTier-->
+        <lockedCells>
+            <cell x="0" y="0" />
+            <cell x="-1" y="0" />
+            <cell x="1" y="0" />
+            <cell x="0" y="-1" />
+            <cell x="0" y="1" />
+            <cell x="-1" y="1" />
+            <cell x="-1" y="-1" />
+            <cell x="1" y="1" />
+            <cell x="1" y="-1" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/decorations/alarmbell/alarmbell_3rdtier.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/decorations/alarmbell/alarmbell_3rdtier_inc.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+            <state type="Working">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/decorations/alarmbell/alarmbell_3rdtier.dts</shapeName>
+                       <animationName>bell</animationName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+                <soundEmitters>
+                    <emitter>
+                        <profile>BellTowerSound</profile>
+                        <event>Object_TowerBell_High</event>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <radius>20</radius>
+                    </emitter>  
+                </soundEmitters>
+            </state>
+        </states>
+    </object>
+  <object id="2492" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="1" noRuins="1" xdt:Transform="Insert">
+        <!--name = Big Siege Ladder-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/SiegeLadder/art/Models/3D/Mobiles/Siege/bigsiegeladder.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="0.9" y="0.9" z="0.9" />
+                    </shape>
+                </shapes>
+                <mountPoints>
+                    <climbPoint>
+                        <offset x="0.0" y="0.8" z="0.0" />
+                        <rot x="0.0" y="0.0" z="1.0" angle="0.0" />
+                        <angle yaw="1.0" pitch="0.25" />
+                        <distance meters="2.0" />
+                    </climbPoint>
+                </mountPoints>
+            </state>
+            <state type="Damaged">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/SiegeLadder/art/Models/3D/Mobiles/Siege/bigsiegeladder.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="0.9" y="0.9" z="0.9" />
+                    </shape>
+                </shapes>
+                <decals>
+                    <decal>
+                        <datablock>ScorchBigDecal</datablock>
+                        <offset x="0.0433842" y="0.281574" z="0.697341" />
+                        <normal x="1.16848e-007" y="-7.75286e-012" z="1" />
+                        <tangent x="-1" y="4.6561e-026" z="1.16848e-007" />
+                        <size>1.2</size>
+                    </decal>
+                    <decal>
+                        <datablock>ScorchBigDecal</datablock>
+                        <offset x="0.00575076" y="-0.402415" z="1.63994" />
+                        <normal x="6.64266e-005" y="0.983117" z="0.18298" />
+                        <tangent x="9.41725e-013" y="0.18298" z="-0.983117" />
+                        <size>1.2</size>
+                    </decal>
+                </decals>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/site/site.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+  <object id="2489" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="1" noRuins="1" xdt:Transform="Insert">
+        <!--name = small Siege Ladder-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/SiegeLadder/art/Models/3D/Mobiles/Siege/smallsiegeladder.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="0.9" y="0.9" z="0.9" />
+                    </shape>
+                </shapes>
+                <mountPoints>
+                    <climbPoint>
+                        <offset x="0.0" y="0.8" z="0.0" />
+                        <rot x="0.0" y="0.0" z="1.0" angle="0.0" />
+                        <angle yaw="1.0" pitch="0.25" />
+                        <distance meters="2.0" />
+                    </climbPoint>
+                </mountPoints>
+            </state>
+            <state type="Damaged">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/SiegeLadder/art/Models/3D/Mobiles/Siege/smallsiegeladder.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="0.9" y="0.9" z="0.9" />
+                    </shape>
+                </shapes>
+                <decals>
+                    <decal>
+                        <datablock>ScorchBigDecal</datablock>
+                        <offset x="0.0433842" y="0.281574" z="0.697341" />
+                        <normal x="1.16848e-007" y="-7.75286e-012" z="1" />
+                        <tangent x="-1" y="4.6561e-026" z="1.16848e-007" />
+                        <size>1.2</size>
+                    </decal>
+                    <decal>
+                        <datablock>ScorchBigDecal</datablock>
+                        <offset x="0.00575076" y="-0.402415" z="1.63994" />
+                        <normal x="6.64266e-005" y="0.983117" z="0.18298" />
+                        <tangent x="9.41725e-013" y="0.18298" z="-0.983117" />
+                        <size>1.2</size>
+                    </decal>
+                </decals>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/site/site.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+  <object id="2490" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="1" noRuins="1" xdt:Transform="Insert">
+        <!--name = Siege Ladder-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/SiegeLadder/art/Models/3D/Mobiles/Siege/siegeladder.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="0.9" y="0.9" z="0.9" />
+                    </shape>
+                </shapes>
+                <mountPoints>
+                    <climbPoint>
+                        <offset x="0.0" y="0.8" z="0.0" />
+                        <rot x="0.0" y="0.0" z="1.0" angle="0.0" />
+                        <angle yaw="1.0" pitch="0.25" />
+                        <distance meters="2.0" />
+                    </climbPoint>
+                </mountPoints>
+            </state>
+            <state type="Damaged">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/SiegeLadder/art/Models/3D/Mobiles/Siege/siegeladder.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="0.9" y="0.9" z="0.9" />
+                    </shape>
+                </shapes>
+                <decals>
+                    <decal>
+                        <datablock>ScorchBigDecal</datablock>
+                        <offset x="0.0433842" y="0.281574" z="0.697341" />
+                        <normal x="1.16848e-007" y="-7.75286e-012" z="1" />
+                        <tangent x="-1" y="4.6561e-026" z="1.16848e-007" />
+                        <size>1.2</size>
+                    </decal>
+                    <decal>
+                        <datablock>ScorchBigDecal</datablock>
+                        <offset x="0.00575076" y="-0.402415" z="1.63994" />
+                        <normal x="6.64266e-005" y="0.983117" z="0.18298" />
+                        <tangent x="9.41725e-013" y="0.18298" z="-0.983117" />
+                        <size>1.2</size>
+                    </decal>
+                </decals>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/site/site.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+  <object id="2491" isUnflattenAllowed="1" rotationStep="1" defaultState="Complete" StreamingGroup="1" noRuins="1" xdt:Transform="Insert">
+        <!--name = Large Siege Ladder-->
+        <lockedCells>
+            <cell x="0" y="0" />
+        </lockedCells>
+        <states>
+            <state type="Complete">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/SiegeLadder/art/Models/3D/Mobiles/Siege/largesiegeladder.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="0.9" y="0.9" z="0.9" />
+                    </shape>
+                </shapes>
+                <mountPoints>
+                    <climbPoint>
+                        <offset x="0.0" y="0.8" z="0.0" />
+                        <rot x="0.0" y="0.0" z="1.0" angle="0.0" />
+                        <angle yaw="1.0" pitch="0.25" />
+                        <distance meters="2.0" />
+                    </climbPoint>
+                </mountPoints>
+            </state>
+            <state type="Damaged">
+                <shapes>
+                    <shape>
+                        <shapeName>yolauncher/modpack/mods/LiFx/SiegeLadder/art/Models/3D/Mobiles/Siege/largesiegeladder.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="0.9" y="0.9" z="0.9" />
+                    </shape>
+                </shapes>
+                <decals>
+                    <decal>
+                        <datablock>ScorchBigDecal</datablock>
+                        <offset x="0.0433842" y="0.281574" z="0.697341" />
+                        <normal x="1.16848e-007" y="-7.75286e-012" z="1" />
+                        <tangent x="-1" y="4.6561e-026" z="1.16848e-007" />
+                        <size>1.2</size>
+                    </decal>
+                    <decal>
+                        <datablock>ScorchBigDecal</datablock>
+                        <offset x="0.00575076" y="-0.402415" z="1.63994" />
+                        <normal x="6.64266e-005" y="0.983117" z="0.18298" />
+                        <tangent x="9.41725e-013" y="0.18298" z="-0.983117" />
+                        <size>1.2</size>
+                    </decal>
+                </decals>
+            </state>
+            <state type="Incomplete">
+                <shapes>
+                    <shape>
+                        <shapeName>art/models/3d/construction/misc/site/site.dts</shapeName>
+                        <offset x="0" y="0" z="0" />
+                        <rot x="0" y="0" z="1" angle="0" />
+                        <scale x="1" y="1" z="1" />
+                    </shape>
+                </shapes>
+            </state>
+        </states>
+    </object>
+</object_types>
