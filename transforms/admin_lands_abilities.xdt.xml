@@ -55,7 +55,7 @@
 <ability>299</ability> <!-- Suicide -->
 </restricted>
 </land>
-  <land xdt:Locator="Condition(name='abellaCentral')" xdt:Transform="Replace">
+  <land xdt:Locator="Condition(normalize-space(name)='abellaCentral')" xdt:Transform="Replace">
 <name>abellaCentral</name>
 <allowed>
 <ability>212</ability> <!-- Special Open/Close the Gate -->
@@ -106,7 +106,7 @@
 <ability>299</ability> <!-- Suicide -->
 </restricted>
 </land>
-  <land xdt:Locator="Condition(name='newbieWholeArea')" xdt:Transform="Replace">
+  <land xdt:Locator="Condition(normalize-space(name)='newbieWholeArea')" xdt:Transform="Replace">
         <name>newbieWholeArea</name>
         <allowed>
             <ability>6</ability>   <!-- Gather a Flint Stone -->
@@ -149,7 +149,7 @@
             <ability>38</ability>  <!-- Saw out a Board -->
         </allowed>
     </land>
-  <land xdt:Locator="Condition(name='newbieArena')" xdt:Transform="Replace">
+  <land xdt:Locator="Condition(normalize-space(name)='newbieArena')" xdt:Transform="Replace">
         <name>newbieArena</name>
         <allowed>
             <ability>108</ability> <!-- Look in Inventory -->
@@ -161,5 +161,5 @@
             <ability>96</ability>  <!-- Lift Object -->
         </restricted>
     </land>
-  <land xdt:Locator="Condition(name='newbieQuestMine')" xdt:Transform="Remove" />
+  <land xdt:Locator="Condition(normalize-space(name)='newbieQuestMine')" xdt:Transform="Remove" />
 </lands>
